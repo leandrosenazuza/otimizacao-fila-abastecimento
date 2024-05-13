@@ -1,7 +1,3 @@
-# Título do Projeto
-
-Breve descrição projeto.
-
 ## Índice
 
 1. [Sobre](#sobre)
